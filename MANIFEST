@@ -1,0 +1,4 @@
+PROJECT=template-go-cli
+BINARY=go-cli
+VERSION=1.0.0
+IMAGE_NAME=template-go-cli
